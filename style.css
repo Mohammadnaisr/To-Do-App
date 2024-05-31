@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+.main_p{
+    display: flex;
+    justify-content: center;
+}
+.parent{
+    display:flex;
+    justify-content: center;
+    border: 2px;
+}
